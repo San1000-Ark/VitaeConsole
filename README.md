@@ -34,7 +34,7 @@ El sistema está diseñado para ejecutarse sin interfaz gráfica, ideal para ent
 ### Pasos para la ejecución.
 1. Clona este repositorio:
    ```bash
-   git clone (https://github.com/San1000-Ark/VitaeConsole)
+   git clone https://github.com/San1000-Ark/VitaeConsole
    cd vitaeconsole-equipo
 
 2. Instala la librería externa necesaria:
