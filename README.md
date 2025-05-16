@@ -38,21 +38,21 @@ El sistema está diseñado para ejecutarse sin interfaz gráfica, ideal para ent
    cd vitaeconsole-equipo
 
 2. Instala la librería externa necesaria:
-   pip install rich.
+   Sudo apt update, para permisos de administrador.
+   Sudo apt install python3-tabulate.
 
-3. Ejecuta el programa principal:
-   python main.py.
+4. Ejecuta el programa principal:
+   python Hoja_Vida.py.
 
 ---
 
-## 4. Librerías utilizadas y cómo instalarlas.
+## 4. Librerías utilizadas y cómo instalarlas
 
-| Librería   | Uso                                 | Instalación           |
-|------------|--------------------------------------|------------------------|
-| datetime   | Cálculo de edad y fechas             | Incluida en Python     |
-| json       | Exportar e importar datos            | Incluida en Python     |
-| rich       | Mostrar tablas e interfaces bonitas  | `pip install rich`     |
-| collections| Contar habilidades frecuentes        | Incluida en Python     |
+| Librería    | Uso                                                  | Instalación              |
+|-------------|-------------------------------------------------------|---------------------------|
+| `tabulate`  | Formato estético para la tabulación de datos         | `pip install tabulate`   |
+| `json`      | Exportar e importar datos en formato JSON            | Incluida en Python        |
+| `collections` | Contar elementos (por ejemplo, habilidades frecuentes) | Incluida en Python     |
 
 ---
 
