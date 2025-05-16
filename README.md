@@ -28,8 +28,8 @@ El sistema está diseñado para ejecutarse sin interfaz gráfica, ideal para ent
 
 ## 3. Instrucciones para ejecutar el programa.
 
-### Requisitos previos.
-- Python 3 instalado en el sistema.
+### Requisito previo.
+Python 3 instalado en el sistema.
 
 ### Pasos para la ejecución.
 1. Clona este repositorio:
@@ -41,7 +41,7 @@ El sistema está diseñado para ejecutarse sin interfaz gráfica, ideal para ent
    Sudo apt update, para permisos de administrador.
    Sudo apt install python3-tabulate.
 
-4. Ejecuta el programa principal:
+3. Ejecuta el programa principal:
    python Hoja_Vida.py.
 
 ---
