@@ -1,3 +1,4 @@
+import re
 import json #para guardar y cargar hojas de vida
 from tabulate import tabulate #tabulate para agregar un formato a todos los datos de entrada ingresados por el usuario
 #Datos personales
@@ -13,6 +14,13 @@ def registro_hoja_vida():
     direccion=input("Ingresa la direccion: ")
     telefono=input("Ingresa tu telefono: ")
     correo=input("Ingresa el correo electronico: ")
+
+    patronCorreo=r'^[\w\.-]+@gmail\.com$'
+    if re.match(patronCorreo,correo):
+        return True
+    else:
+        print("Debes de ingresar un arroba y una extencion de correo electronico(gmail.com)... Intenta de nuevo")
+
     
     if correo in correos:
         print("Correo ya existente; ingresa uno  nuevo...")
