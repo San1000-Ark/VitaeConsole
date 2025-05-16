@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Nombres de los integrantes y grupo al que pertenecen
+## 1. Nombres de los integrantes y grupo al que pertenecen.
 
 | Nombre completo                 | Clan         |
 |--------------------------------|--------------|
@@ -45,7 +45,7 @@ El sistema está diseñado para ejecutarse sin interfaz gráfica, ideal para ent
 
 ---
 
-## 4. Librerías utilizadas y cómo instalarlas
+## 4. Librerías utilizadas y cómo instalarlas.
 
 | Librería   | Uso                                 | Instalación           |
 |------------|--------------------------------------|------------------------|
