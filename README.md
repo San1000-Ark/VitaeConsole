@@ -2,13 +2,13 @@
 
 ---
 
-## 1. Nombres de los integrantes y grupo al que pertenecen.
+## 1. Nombres de los integrantes y grupo al que pertenecen
 
-| Nombre completo                |      Clan      |
-|-------------------------------------------------|
-| [Jose Blas Padilla Carmona  ]  | [Van Rossum]   |
-| [Santiago Restrepo Arismendy]  | [Berners Lee]  |
-| [Vanessa Gomez Lopez         ] | [Berners Lee]  |
+| Nombre completo                 | Clan         |
+|--------------------------------|--------------|
+| Jose Blas Padilla Carmona      | Van Rossum   |
+| Santiago Restrepo Arismendy    | Berners Lee  |
+| Vanessa Gomez Lopez            | Berners Lee  |
 
 ---
 
@@ -45,14 +45,14 @@ El sistema está diseñado para ejecutarse sin interfaz gráfica, ideal para ent
 
 ---
 
-## 4. Librerías utilizadas y cómo instalarlas.
+## 4. Librerías utilizadas y cómo instalarlas
 
-| Librería       |                  Uso                   | Instalación              |
-|------------------------------------------------------------------------------------|
-| [datetime    ] | [Cálculo de edad y fechas           ]  | [Incluida en Python]     |
-| [json        ] | [Exportar e importar datos          ]  | [Incluida en Python]     |
-| [rich        ] | [Mostrar tablas e interfaces bonitas]  | [pip install rich  ]     |
-| [collections ] | [Contar habilidades frecuentes      ]  | [Incluida en Python]     | 
+| Librería   | Uso                                 | Instalación           |
+|------------|--------------------------------------|------------------------|
+| datetime   | Cálculo de edad y fechas             | Incluida en Python     |
+| json       | Exportar e importar datos            | Incluida en Python     |
+| rich       | Mostrar tablas e interfaces bonitas  | `pip install rich`     |
+| collections| Contar habilidades frecuentes        | Incluida en Python     |
 
 ---
 
