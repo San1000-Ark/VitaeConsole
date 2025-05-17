@@ -74,13 +74,11 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
    ```bash
       sudo apt install python3-tabulate
 
-
 4. Ejecuta el programa principal:
 
    ```bash
       python Hoja_Vida.py
-
-
+      
 ---
 
 ## 📦 Librerías Utilizadas y Cómo Instalarlas.
