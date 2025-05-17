@@ -91,3 +91,4 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 ---
 
 ## 🖼️ Captura del Tablero de Trabajo.
+- jjj
