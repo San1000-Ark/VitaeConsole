@@ -95,3 +95,7 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 ---
 
 ## 🖼️ Captura del Tablero de Trabajo.
+
+Clona el repositorio:  
+
+[https://trello.com/invite/b/6826700cfc43851b1cb5586a/ATTI9041a66513dfffd90206a4218291a41004F6DC76/vitaeconsole-gestion-del-proyecto(https://trello.com/invite/b/6826700cfc43851b1cb5586a/ATTI9041a66513dfffd90206a4218291a41004F6DC76/vitaeconsole-gestion-del-proyecto)
