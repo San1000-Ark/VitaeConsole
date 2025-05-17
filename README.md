@@ -1,12 +1,12 @@
-# 🖥️ VitaeConsole
-> Sistema de Gestión de Hojas de Vida en Consola
+# 🖥️ VitaeConsole.
+> Sistema de Gestión de Hojas de Vida en Consola.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square)
 ![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow?style=flat-square)
 
 ---
 
-## 👥 Integrantes del equipo
+## 👥 Integrantes del equipo.
 
 | Nombre completo                 | Clan         |
 |--------------------------------|--------------|
@@ -16,28 +16,28 @@
 
 ---
 
-## 📌 Descripción general
+## 📌 Descripción general.
 
 **VitaeConsole** es una aplicación en consola desarrollada en Python que permite gestionar hojas de vida de forma eficiente. Está pensada para organizaciones, instituciones educativas y reclutadores que necesitan registrar, consultar, actualizar y exportar perfiles profesionales en un entorno liviano, sin interfaz gráfica.
 
 ### Funcionalidades principales:
 
-- 📄 Registro de datos personales  
-- 🎓 Formación académica  
-- 💼 Experiencia laboral  
-- 📞 Referencias  
-- 🧠 Habilidades y certificaciones  
-- 📤 Exportación de datos en formato JSON  
+- 📄 Registro de datos personales.
+- 🎓 Formación académica.
+- 💼 Experiencia laboral.
+- 📞 Referencias.
+- 🧠 Habilidades y certificaciones.  
+- 📤 Exportación de datos en formato JSON.
 
 ---
 
-## ⚙️ Instrucciones para ejecutar el sistema
+## ⚙️ Instrucciones para ejecutar el sistema.
 
-### ✅ Requisitos previos
+### ✅ Requisitos previos.
 
 - Python 3.x instalado
 
-### 🚀 Instrucciones
+### 🚀 Instrucciones.
 
 1. Clona el repositorio:
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 📚 Librerías utilizadas
+## 📚 Librerías utilizadas.
 
 | Librería    | Descripción                                       | Instalación                                |
 |-------------|---------------------------------------------------|---------------------------------------------|
@@ -65,28 +65,28 @@
 
 ---
 
-## 🧪 Ejemplos de uso
+## 🧪 Ejemplos de uso.
 
-- [Captura desde consola (2025-05-16 21:31:15)](https://github.com/user-attachments/assets/10947a72-4fe5-488d-baef-25d6a6b38c19)
-- [Simulación WhatsApp (21:35:07)](https://github.com/user-attachments/assets/aa003ed0-cbe0-446a-9b5c-400ebd4591a5)
-- [Simulación WhatsApp (21:34:54)](https://github.com/user-attachments/assets/b8c6e205-607c-49b9-afde-fbb5efc672e2)
-
----
-
-## 📋 Capturas del tablero de trabajo
-
-[**Tablero de Trello - VitaeConsole: Gestión del Proyecto**](https://trello.com/invite/b/6826700cfc43851b1cb5586a/ATTIc1e6ecd861d1bb7842475b6929de28734BF95841/vitaeconsole-gestion-del-proyecto)
-- [Captura de pantalla del tablero (21:24:55)](https://github.com/user-attachments/assets/b281f295-1f81-4d44-890e-aeda3e39621c)
-- [Captura de pantalla del tablero (21:25:54)](https://github.com/user-attachments/assets/3fcebd48-4914-4006-ae77-4b8b485e1be4)
+- [Captura desde consola (2025-05-16 21:31:15).](https://github.com/user-attachments/assets/10947a72-4fe5-488d-baef-25d6a6b38c19)
+- [Simulación WhatsApp (21:35:07).](https://github.com/user-attachments/assets/aa003ed0-cbe0-446a-9b5c-400ebd4591a5)
+- [Simulación WhatsApp (21:34:54).](https://github.com/user-attachments/assets/b8c6e205-607c-49b9-afde-fbb5efc672e2)
 
 ---
 
-## 🛠️ Estado del proyecto
+## 📋 Capturas del tablero de trabajo.
+
+[**Tablero de Trello - VitaeConsole: Gestión del Proyecto**.](https://trello.com/invite/b/6826700cfc43851b1cb5586a/ATTIc1e6ecd861d1bb7842475b6929de28734BF95841/vitaeconsole-gestion-del-proyecto)
+- [Captura de pantalla del tablero (21:24:55).](https://github.com/user-attachments/assets/b281f295-1f81-4d44-890e-aeda3e39621c)
+- [Captura de pantalla del tablero (21:25:54).](https://github.com/user-attachments/assets/3fcebd48-4914-4006-ae77-4b8b485e1be4)
+
+---
+
+## 🛠️ Estado del proyecto.
 
 Proyecto en desarrollo 🚧. Próximamente se incluirán mejoras como:
 
-- Búsqueda avanzada
-- Filtros por área profesional
-- Exportación a PDF
+- Búsqueda avanzada.
+- Filtros por área profesional.
+- Exportación a PDF.
 
 ---
