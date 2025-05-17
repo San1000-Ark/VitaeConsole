@@ -35,13 +35,13 @@
 
 ### ✅ Requisitos previos.
 
-- Python 3.x instalado
+- Python 3.x instalado.
 
 ### 🚀 Instrucciones.
 
 1. Clona el repositorio:
 
-   [**VitaeConsole**](https://github.com/San1000-Ark/VitaeConsole)
+   [**VitaeConsole**.](https://github.com/San1000-Ark/VitaeConsole)
 
 2. Instala las dependencias necesarias:
    ```bash
