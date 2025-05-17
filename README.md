@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Nombres de los integrantes y grupo al que pertenecen.
+## Nombres de los integrantes y grupo al que pertenecen.
 
 | Nombre completo                 | Clan         |
 |--------------------------------|--------------|
@@ -12,7 +12,7 @@
 
 ---
 
-## 2. Descripción general del sistema.
+## Descripción general del sistema.
 
 **VitaeConsole** es una herramienta en consola escrita en Python que permite a empresas, instituciones educativas o reclutadores gestionar hojas de vida de manera organizada. Incluye funcionalidades para registrar, consultar, actualizar y exportar perfiles profesionales con múltiples secciones:
 
@@ -26,7 +26,7 @@ El sistema está diseñado para ejecutarse sin interfaz gráfica, ideal para ent
 
 ---
 
-## 3. Instrucciones para ejecutar el programa.
+## Instrucciones para ejecutar el programa.
 
 ### Requisito previo.
 Python 3 instalado en el sistema.
@@ -46,7 +46,7 @@ Python 3 instalado en el sistema.
 
 ---
 
-## 4. Librerías utilizadas y cómo instalarlas
+## Librerías utilizadas y cómo instalarlas
 
 | Librería    | Uso                                                  | Instalación              |
 |-------------|-------------------------------------------------------|---------------------------|
@@ -56,7 +56,7 @@ Python 3 instalado en el sistema.
 
 ---
 
-## 5. Ejemplos de uso y datos simulados.
+## Ejemplos de uso y datos simulados.
 
 ---
 
@@ -64,7 +64,7 @@ Python 3 instalado en el sistema.
 ![Imagen de WhatsApp 2025-05-16 a las 21 34 54_b33f3e8f](https://github.com/user-attachments/assets/b8c6e205-607c-49b9-afde-fbb5efc672e2)
 
 
-## 6. Captura del tablero de trabajo.
+## Captura del tablero de trabajo.
 
 ---
 
