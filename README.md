@@ -46,7 +46,7 @@ Python 3 instalado en el sistema.
 
 ---
 
-## Librerías utilizadas y cómo instalarlas
+## Librerías utilizadas y cómo instalarlas.
 
 | Librería    | Uso                                                  | Instalación              |
 |-------------|-------------------------------------------------------|---------------------------|
