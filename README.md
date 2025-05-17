@@ -98,3 +98,5 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 
 [Tablero](https://trello.com/invite/b/6826700cfc43851b1cb5586a/ATTI9041a66513dfffd90206a4218291a41004F6DC76/vitaeconsole-gestion-del-proyecto)
 
+![Captura de pantalla 2025-05-16 212455](https://github.com/user-attachments/assets/8a31374c-5c20-479c-8300-ca2f2e5413b8)
+
