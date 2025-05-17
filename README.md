@@ -18,7 +18,7 @@ Una solución en Python para registrar, consultar y exportar hojas de vida desde
 
 ## Nombre del Proyecto.
 
-**VitaeConsole**
+**VitaeConsole.**
 
 ---
 
