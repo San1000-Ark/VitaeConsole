@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "santiago",
+        "documento_id": "103156",
+        "direccion": "rgbrgb",
+        "correo": "san@gmail.com",
+        "fecha_nacimiento": "156113513",
+        "validacion": [
+            "156113513",
+            "103156"
+        ],
+        "formacion": [
+            {
+                "institucion": "gb",
+                "titulo": "berb",
+                "experiencia": "456"
+            }
+        ],
+        "experiencia": [
+            {
+                "empresa": "vwrbtv",
+                "cargo": "rbt",
+                "funciones": "wrbt",
+                "duracion": "56465"
+            }
+        ],
+        "referencia_personales": [
+            {
+                "nombre_ref": "ewfv",
+                "parentesco": "personal",
+                "telefono_ref": "erb"
+            }
+        ],
+        "habilidades": [
+            "lenfvjl"
+        ]
+    }
+]
