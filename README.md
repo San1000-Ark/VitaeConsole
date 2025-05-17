@@ -78,7 +78,7 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 
    ```bash
       python Hoja_Vida.py
-      
+
 ---
 
 ## 📦 Librerías Utilizadas y Cómo Instalarlas.
