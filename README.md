@@ -1,4 +1,13 @@
-# VitaeConsole - Sistema de Gestión de Hojas de Vida en Consola.
+# ================================================
+# 🧾 VitaeConsole - Sistema de Gestión de Hojas de Vida en Consola.
+# ================================================
+
+Una solución en Python para registrar, consultar y exportar hojas de vida desde la terminal.
+
+---
+
+## 📑 Índice.
+
 
 Una solución en Python para registrar, consultar y exportar hojas de vida desde la terminal.
 
