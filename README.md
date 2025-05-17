@@ -9,12 +9,6 @@ Una solución en Python para registrar, consultar y exportar hojas de vida desde
 ## 📑 Índice.
 
 
-Una solución en Python para registrar, consultar y exportar hojas de vida desde la terminal.
-
----
-
-## Índice.
-
 - [Nombre del Proyecto.](#nombre-del-proyecto)
 - [Integrantes y Grupo.](#integrantes-y-grupo)
 - [Descripción General del Sistema.](#descripción-general-del-sistema)
@@ -26,13 +20,13 @@ Una solución en Python para registrar, consultar y exportar hojas de vida desde
 
 ---
 
-## Nombre del Proyecto.
+## 📌 Nombre del Proyecto.
 
 **VitaeConsole.**
 
 ---
 
-## Integrantes y Grupo.
+## 👥 Integrantes y Grupo.
 
 | Nombre completo                 | Clan         |
 |--------------------------------|--------------|
@@ -42,7 +36,7 @@ Una solución en Python para registrar, consultar y exportar hojas de vida desde
 
 ---
 
-## Descripción General del Sistema.
+## 📝 Descripción General del Sistema.
 
 **VitaeConsole** es una aplicación de consola desarrollada en Python que permite gestionar hojas de vida con funcionalidades como:
 
@@ -58,7 +52,7 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 
 ---
 
-## Instrucciones para Ejecutar el Programa.
+## ⚙️ Instrucciones para Ejecutar el Programa.
 
 ### Requisitos Previos.
 
@@ -72,7 +66,6 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 2. Abre tu terminal y ejecuta:
 
    ```bash
-   git clone https://github.com/San1000-Ark/VitaeConsole
    cd VitaeConsole
    
 3. Instala la dependencia necesaria:
@@ -83,7 +76,7 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 
 ---
 
-## Librerías Utilizadas y Cómo Instalarlas.
+## 📦 Librerías Utilizadas y Cómo Instalarlas.
 
 | Librería   | Uso                                         | Instalación            |
 | ---------- | ------------------------------------------- | ---------------------- |
@@ -92,10 +85,8 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 
 ---
 
-## Ejemplos de Uso o Datos Simulados.
+## 🔎 Ejemplos de Uso o Datos Simulados.
 
 ---
 
-## Captura del Tablero de Trabajo.
-
-
+## 🖼️ Captura del Tablero de Trabajo.
