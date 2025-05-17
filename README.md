@@ -54,9 +54,12 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 
 - Tener instalado **Python 3**.
 
-### Pasos para la Ejecución
+### Pasos para la Ejecución.
 
-1. Clona el repositorio:
+1. Clona el repositorio:  
+    [https://github.com/San1000-Ark/VitaeConsole.](https://github.com/San1000-Ark/VitaeConsole)
+
+2. Abre tu terminal y ejecuta:
 
    ```bash
    git clone https://github.com/San1000-Ark/VitaeConsole
