@@ -73,9 +73,11 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 
       pip install tabulate
 
+
 4. Ejecuta el programa principal:
 
       python Hoja_Vida.py
+
 
 ---
 
