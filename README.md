@@ -6,13 +6,13 @@ Una solución en Python para registrar, consultar y exportar hojas de vida desde
 
 ## Índice.
 
-- [Nombre del Proyecto](#nombre-del-proyecto)
-- [Integrantes y Grupo](#integrantes-y-grupo)
-- [Descripción General del Sistema](#descripción-general-del-sistema)
-- [Instrucciones para Ejecutar el Programa](#instrucciones-para-ejecutar-el-programa)
-- [Librerías Utilizadas y Cómo Instalarlas](#librerías-utilizadas-y-cómo-instalarlas)
-- [Ejemplos de Uso o Datos Simulados](#ejemplos-de-uso-o-datos-simulados)
-- [Captura del Tablero de Trabajo](#captura-del-tablero-de-trabajo)
+- [Nombre del Proyecto.](#nombre-del-proyecto)
+- [Integrantes y Grupo.](#integrantes-y-grupo)
+- [Descripción General del Sistema.](#descripción-general-del-sistema)
+- [Instrucciones para Ejecutar el Programa.](#instrucciones-para-ejecutar-el-programa)
+- [Librerías Utilizadas y Cómo Instalarlas.](#librerías-utilizadas-y-cómo-instalarlas)
+- [Ejemplos de Uso o Datos Simulados.](#ejemplos-de-uso-o-datos-simulados)
+- [Captura del Tablero de Trabajo.](#captura-del-tablero-de-trabajo)
 
 ---
 
