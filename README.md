@@ -1,6 +1,6 @@
-# ================================================
+# =============================================
 # 🧾 VitaeConsole - Sistema de Gestión de Hojas de Vida en Consola.
-# ================================================
+# =============================================
 
 Una solución en Python para registrar, consultar y exportar hojas de vida desde la terminal.
 
@@ -57,23 +57,23 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 
 ### Requisitos Previos.
 
-- Tener instalado **Python 3**.
+- Tener instalado **Python 3**
 
 ### Pasos para la Ejecución.
 
 1. Clona el repositorio:  
-   [https://github.com/San1000-Ark/VitaeConsole](https://github.com/San1000-Ark/VitaeConsole).
+   [https://github.com/San1000-Ark/VitaeConsole](https://github.com/San1000-Ark/VitaeConsole)
 
 2. Abre tu terminal y ejecuta:
 
    ```bash
-   cd VitaeConsole
+      cd VitaeConsole
    
 3. Instala la dependencia necesaria:
-   pip install tabulate
+      pip install tabulate
 
 4. Ejecuta el programa principal:
-   python Hoja_Vida.py
+      python Hoja_Vida.py
 
 ---
 
@@ -91,4 +91,3 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 ---
 
 ## 🖼️ Captura del Tablero de Trabajo.
-- jjj
