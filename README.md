@@ -100,7 +100,6 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 
 ![Captura de pantalla 2025-05-16 212455](https://github.com/user-attachments/assets/8a31374c-5c20-479c-8300-ca2f2e5413b8)
 
-![Captura de pantalla 2025-05-16 212455](https://github.com/user-attachments/assets/78b08b49-3815-46cd-95c0-2926a7468a56)
-
+![Captura de pantalla 2025-05-16 212554](https://github.com/user-attachments/assets/93436867-f200-4976-b730-ce642a7c7afd)
 
 
