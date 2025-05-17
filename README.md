@@ -1,8 +1,28 @@
 # VitaeConsole - Sistema de Gestión de Hojas de Vida en Consola.
 
+Una solución en Python para registrar, consultar y exportar hojas de vida desde la terminal.
+
 ---
 
-## 1. Nombres de los integrantes y grupo al que pertenecen.
+## Índice.
+
+- [Nombre del Proyecto.](#nombre-del-proyecto)
+- [Integrantes y Grupo.](#integrantes-y-grupo)
+- [Descripción General del Sistema.](#descripción-general-del-sistema)
+- [Instrucciones para Ejecutar el Programa.](#instrucciones-para-ejecutar-el-programa)
+- [Librerías Utilizadas y Cómo Instalarlas.](#librerías-utilizadas-y-cómo-instalarlas)
+- [Ejemplos de Uso o Datos Simulados.](#ejemplos-de-uso-o-datos-simulados)
+- [Captura del Tablero de Trabajo.](#captura-del-tablero-de-trabajo)
+
+---
+
+## Nombre del Proyecto.
+
+**VitaeConsole.**
+
+---
+
+## Integrantes y Grupo.
 
 | Nombre completo                 | Clan         |
 |--------------------------------|--------------|
@@ -12,52 +32,62 @@
 
 ---
 
-## 2. Descripción general del sistema.
+## Descripción General del Sistema.
 
-**VitaeConsole** es una herramienta en consola escrita en Python que permite a empresas, instituciones educativas o reclutadores gestionar hojas de vida de manera organizada. Incluye funcionalidades para registrar, consultar, actualizar y exportar perfiles profesionales con múltiples secciones:
+**VitaeConsole** es una aplicación de consola desarrollada en Python que permite gestionar hojas de vida con funcionalidades como:
 
-- Datos personales.
+- Registro de datos personales.
 - Formación académica.
 - Experiencia laboral.
-- Referencias.
-- Habilidades o certificaciones.
+- Referencias personales y laborales.
+- Habilidades.
 
-El sistema está diseñado para ejecutarse sin interfaz gráfica, ideal para entornos livianos o remotos.
+También permite consultar por nombre, documento o correo electrónico, exportar a formato JSON, y generar reportes de experiencia.
+
+Ideal para instituciones que necesiten una solución liviana y sin interfaz gráfica.
 
 ---
 
-## 3. Instrucciones para ejecutar el programa.
+## Instrucciones para Ejecutar el Programa.
 
-### Requisito previo.
-Python 3 instalado en el sistema.
+### Requisitos Previos.
 
-### Pasos para la ejecución.
-1. Clona este repositorio:
+- Tener instalado **Python 3**.
+
+### Pasos para la Ejecución.
+
+1. Clona el repositorio:  
+    [https://github.com/San1000-Ark/VitaeConsole.](https://github.com/San1000-Ark/VitaeConsole)
+
+2. Abre tu terminal y ejecuta:
+
    ```bash
    git clone https://github.com/San1000-Ark/VitaeConsole
-   cd vitaeconsole-equipo
+   cd VitaeConsole
 
-2. Instala la librería externa necesaria:
-- Sudo apt update, para permisos de administrador.
-- Sudo apt install python3-tabulate.
+2. Instala dependencias:
+
+pip install tabulate.
 
 3. Ejecuta el programa principal:
-   python Hoja_Vida.py.
+
+python Hoja_Vida.py.
 
 ---
 
-## 4. Librerías utilizadas y cómo instalarlas
+## Librerías Utilizadas y Cómo Instalarlas.
 
-| Librería    | Uso                                                  | Instalación              |
-|-------------|-------------------------------------------------------|---------------------------|
-| `tabulate`  | Formato estético para la tabulación de datos         | Incluida en Python        |
-| `json`      | Exportar e importar datos en formato JSON            | Incluida en Python        |
-
-
----
-
-## 5. Ejemplos de uso y datos simulados.
+| Librería   | Uso                                         | Instalación            |
+| ---------- | ------------------------------------------- | ---------------------- |
+| `tabulate` | Formato de impresión en tablas para consola | `pip install tabulate` |
+| `json`     | Lectura y escritura de archivos JSON        | Incluida en Python     |
 
 ---
 
-## 6. Captura del tablero de trabajo.
+## Ejemplos de Uso o Datos Simulados.
+
+---
+
+## Captura del Tablero de Trabajo.
+
+
