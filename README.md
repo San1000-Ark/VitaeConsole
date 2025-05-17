@@ -62,7 +62,7 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 ### Pasos para la Ejecución.
 
 1. Clona el repositorio:  
-   [https://github.com/San1000-Ark/VitaeConsole](https://github.com/San1000-Ark/VitaeConsole)
+   [Repositorio](https://github.com/San1000-Ark/VitaeConsole)
 
 2. Abre tu terminal y ejecuta:
 
@@ -96,8 +96,5 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 
 ## 🖼️ Captura del Tablero de Trabajo.
 
-Clona el repositorio:  
+[Tablero](https://trello.com/invite/b/6826700cfc43851b1cb5586a/ATTI9041a66513dfffd90206a4218291a41004F6DC76/vitaeconsole-gestion-del-proyecto)
 
-Clona el repositorio aquí:  
-
-[Repositorio VitaeConsole](https://trello.com/invite/b/6826700cfc43851b1cb5586a/ATTI9041a66513dfffd90206a4218291a41004F6DC76/vitaeconsole-gestion-del-proyecto)
