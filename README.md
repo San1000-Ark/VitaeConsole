@@ -41,7 +41,7 @@
 
 1. Clona el repositorio:
    ```bash
-   [git clone https://github.com/San1000-Ark/VitaeConsole](https://github.com/San1000-Ark/VitaeConsole)
+   [git clone https://github.com/San1000-Ark/VitaeConsole && cd vitaeconsole-equipo](https://github.com/San1000-Ark/VitaeConsole)
    cd vitaeconsole-equipo
    ```
 
