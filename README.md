@@ -57,7 +57,7 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 
 ### Requisitos Previos.
 
-- Tener instalado **Python 3**
+- Tener instalado **Python 3**.
 
 ### Pasos para la Ejecución.
 
