@@ -92,6 +92,10 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 
 ## 🔎 Ejemplos de Uso o Datos Simulados.
 
+![Captura desde 2025-05-16 21-31-15](https://github.com/user-attachments/assets/b6d56850-7a84-48ac-92ce-13fca130d187)
+![Imagen de WhatsApp 2025-05-16 a las 21 34 54_b33f3e8f](https://github.com/user-attachments/assets/058e1299-77b3-49e3-99b4-d8a041fcfbee)
+![Imagen de WhatsApp 2025-05-16 a las 21 35 07_af3ad7e0](https://github.com/user-attachments/assets/40470080-3764-4365-8c64-137b6b7882a2)
+
 ---
 
 ## 🖼️ Captura del Tablero de Trabajo.
