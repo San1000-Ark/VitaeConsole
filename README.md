@@ -75,7 +75,8 @@
 ---
 
 ## 📋 Capturas del tablero de trabajo
-Tablero de Gestión de Tareas: https://trello.com/invite/b/6826700cfc43851b1cb5586a/ATTIc1e6ecd861d1bb7842475b6929de28734BF95841/vitaeconsole-gestion-del-proyecto
+
+https://trello.com/invite/b/6826700cfc43851b1cb5586a/ATTIc1e6ecd861d1bb7842475b6929de28734BF95841/vitaeconsole-gestion-del-proyecto
 - [Captura de pantalla del tablero (21:24:55)](https://github.com/user-attachments/assets/b281f295-1f81-4d44-890e-aeda3e39621c)
 - [Captura de pantalla del tablero (21:25:54)](https://github.com/user-attachments/assets/3fcebd48-4914-4006-ae77-4b8b485e1be4)
 
