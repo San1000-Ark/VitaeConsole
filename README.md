@@ -23,6 +23,7 @@ Una solución en Python para registrar, consultar y exportar hojas de vida desde
 - [Ejemplos de Uso o Datos Simulados.](#ejemplos-de-uso-o-datos-simulados)
 - [Captura del Tablero de Trabajo.](#captura-del-tablero-de-trabajo)
 
+
 ---
 
 ## Nombre del Proyecto.
