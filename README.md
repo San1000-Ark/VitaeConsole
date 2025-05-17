@@ -40,9 +40,8 @@
 ### 🚀 Instrucciones
 
 1. Clona el repositorio:
- 
-   https://github.com/San1000-Ark/VitaeConsole
 
+   [**VitaeConsole**](https://github.com/San1000-Ark/VitaeConsole)
 
 2. Instala las dependencias necesarias:
    ```bash
