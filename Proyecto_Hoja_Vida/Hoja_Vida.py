@@ -15,14 +15,14 @@ def registro_hoja_vida():
     direccion = input("Ingresa la direccion: ")
     telefono = input("Ingresa tu telefono: ")
     correo = input("Ingresa el correo electronico: ")
-    flag = True
-    while flag:
+    
+    while True:
         if correo.endswith("@gmail.com"):
-            return False
+            break
         else:
             print("Debes de ingresar un arroba y una extencion de correo electronico(gmail.com)... Intenta de nuevo")
             correo=input("Ingresa de nuevo el correo con las indicaciones anteriores... :")
-
+             
     if correo in correos:
         print("Correo ya existente; ingresa uno  nuevo...")
         return
