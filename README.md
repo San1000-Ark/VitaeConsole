@@ -60,4 +60,14 @@ Python 3 instalado en el sistema.
 
 ---
 
+![Imagen de WhatsApp 2025-05-16 a las 21 35 07_af3ad7e0](https://github.com/user-attachments/assets/aa003ed0-cbe0-446a-9b5c-400ebd4591a5)
+![Imagen de WhatsApp 2025-05-16 a las 21 34 54_b33f3e8f](https://github.com/user-attachments/assets/b8c6e205-607c-49b9-afde-fbb5efc672e2)
+
+
 ## 6. Captura del tablero de trabajo.
+
+---
+
+![Captura de pantalla 2025-05-16 212455](https://github.com/user-attachments/assets/b281f295-1f81-4d44-890e-aeda3e39621c)
+
+![Captura de pantalla 2025-05-16 212554](https://github.com/user-attachments/assets/3fcebd48-4914-4006-ae77-4b8b485e1be4)
