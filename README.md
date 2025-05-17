@@ -57,21 +57,19 @@ Ideal para instituciones que necesiten una solución liviana y sin interfaz grá
 ### Pasos para la Ejecución.
 
 1. Clona el repositorio:  
-    [https://github.com/San1000-Ark/VitaeConsole.](https://github.com/San1000-Ark/VitaeConsole)
+   [https://github.com/San1000-Ark/VitaeConsole](https://github.com/San1000-Ark/VitaeConsole).
 
 2. Abre tu terminal y ejecuta:
 
    ```bash
    git clone https://github.com/San1000-Ark/VitaeConsole
    cd VitaeConsole
+   
+3. Instala la dependencia necesaria:
+   pip install tabulate
 
-2. Instala dependencias:
-
-pip install tabulate.
-
-3. Ejecuta el programa principal:
-
-python Hoja_Vida.py.
+4. Ejecuta el programa principal:
+   python Hoja_Vida.py
 
 ---
 
