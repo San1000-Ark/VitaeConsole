@@ -31,7 +31,7 @@
 
 ---
 
-## ⚙️ [Instrucciones para ejecutar el sistema](https://github.com/San1000-Ark/VitaeConsole)
+## ⚙️ Instrucciones para ejecutar el sistema
 
 ### ✅ Requisitos previos
 
@@ -41,7 +41,7 @@
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/San1000-Ark/VitaeConsole
+   git clone [https://github.com/San1000-Ark/VitaeConsole](https://github.com/San1000-Ark/VitaeConsole)
    cd vitaeconsole-equipo
    ```
 
@@ -75,7 +75,7 @@
 
 ---
 
-## 📋 [Capturas del tablero de trabajo](https://github.com/users/San1000-Ark/projects/3/views/1)
+## 📋 Capturas del tablero de trabajo
 
 - [Captura de pantalla del tablero (21:24:55)](https://github.com/user-attachments/assets/b281f295-1f81-4d44-890e-aeda3e39621c)
 - [Captura de pantalla del tablero (21:25:54)](https://github.com/user-attachments/assets/3fcebd48-4914-4006-ae77-4b8b485e1be4)
