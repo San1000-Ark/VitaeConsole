@@ -1,38 +1,28 @@
 [
     {
-        "nombre": "santiago",
-        "documento_id": "103156",
-        "direccion": "rgbrgb",
-        "correo": "san@gmail.com",
-        "fecha_nacimiento": "156113513",
-        "validacion": [
-            "156113513",
-            "103156"
-        ],
+        "nombre": "Vanessa Gomez",
+        "documento_id": "1011392976",
+        "direccion": "Avenida 40c",
+        "telefono": "3002964333",
+        "correo": "vanessa@gmail.com",
+        "fecha_nacimiento": "26/09/2026",
         "formacion": [
             {
-                "institucion": "gb",
-                "titulo": "berb",
-                "experiencia": "456"
+                "institucion": "La chinca",
+                "titulo": "Bachiller",
+                "experiencia": "10"
             }
         ],
-        "experiencia": [
-            {
-                "empresa": "vwrbtv",
-                "cargo": "rbt",
-                "funciones": "wrbt",
-                "duracion": "56465"
-            }
-        ],
+        "experiencia": [],
         "referencia_personales": [
             {
-                "nombre_ref": "ewfv",
+                "nombre_ref": "personal",
                 "parentesco": "personal",
-                "telefono_ref": "erb"
+                "telefono_ref": "3002964355"
             }
         ],
         "habilidades": [
-            "lenfvjl"
+            "Responsable"
         ]
     }
 ]
